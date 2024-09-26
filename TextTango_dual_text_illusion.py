@@ -4,7 +4,7 @@
  * Copyright: Luca Monari 2023
  * URL: https://www.printables.com/it/model/520333-texttango-dual-letter-illusion
  """
-import cadquery as cq
+#import cadquery as cq
 from math import pi, sin, cos
 
 text1='STOP' # first text
